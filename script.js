@@ -1,0 +1,1 @@
+// Add JavaScript validation here, e.g., password matching, email format, etc.
